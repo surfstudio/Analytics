@@ -10,7 +10,6 @@ allprojects {
         maven { url "https://jitpack.io" }
         maven { url 'https://maven.fabric.io/public' }
         maven { url 'https://artifactory.surfstudio.ru/artifactory/libs-release-local' }
-        maven { url 'https://dl.bintray.com/surf/maven' }
     }
 }
 

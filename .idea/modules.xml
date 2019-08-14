@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Analytics.iml" filepath="$PROJECT_DIR$/.idea/Analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/Analytics-buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/Analytics-buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/analytics/lib-analytics/analytics.iml" filepath="$PROJECT_DIR$/analytics/lib-analytics/analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-standard-version-plugin/android-standard-version-plugin.iml" filepath="$PROJECT_DIR$/android-standard-version-plugin/android-standard-version-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
